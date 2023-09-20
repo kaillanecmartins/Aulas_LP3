@@ -1,0 +1,17 @@
+C:\Users\20211SI0023\Documents\LP3\Solucao_aula005\LP3aula005\bin\Debug\net6.0-windows\ATV_Aprendizagem002.exe
+C:\Users\20211SI0023\Documents\LP3\Solucao_aula005\LP3aula005\bin\Debug\net6.0-windows\ATV_Aprendizagem002.deps.json
+C:\Users\20211SI0023\Documents\LP3\Solucao_aula005\LP3aula005\bin\Debug\net6.0-windows\ATV_Aprendizagem002.runtimeconfig.json
+C:\Users\20211SI0023\Documents\LP3\Solucao_aula005\LP3aula005\bin\Debug\net6.0-windows\ATV_Aprendizagem002.dll
+C:\Users\20211SI0023\Documents\LP3\Solucao_aula005\LP3aula005\bin\Debug\net6.0-windows\ATV_Aprendizagem002.pdb
+C:\Users\20211SI0023\Documents\LP3\Solucao_aula005\LP3aula005\obj\Debug\net6.0-windows\ATV_Aprendizagem002.csproj.AssemblyReference.cache
+C:\Users\20211SI0023\Documents\LP3\Solucao_aula005\LP3aula005\obj\Debug\net6.0-windows\LP3aula005.Form1.resources
+C:\Users\20211SI0023\Documents\LP3\Solucao_aula005\LP3aula005\obj\Debug\net6.0-windows\ATV_Aprendizagem002.csproj.GenerateResource.cache
+C:\Users\20211SI0023\Documents\LP3\Solucao_aula005\LP3aula005\obj\Debug\net6.0-windows\ATV_Aprendizagem002.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\20211SI0023\Documents\LP3\Solucao_aula005\LP3aula005\obj\Debug\net6.0-windows\ATV_Aprendizagem002.AssemblyInfoInputs.cache
+C:\Users\20211SI0023\Documents\LP3\Solucao_aula005\LP3aula005\obj\Debug\net6.0-windows\ATV_Aprendizagem002.AssemblyInfo.cs
+C:\Users\20211SI0023\Documents\LP3\Solucao_aula005\LP3aula005\obj\Debug\net6.0-windows\ATV_Aprendizagem002.csproj.CoreCompileInputs.cache
+C:\Users\20211SI0023\Documents\LP3\Solucao_aula005\LP3aula005\obj\Debug\net6.0-windows\ATV_Aprendizagem002.dll
+C:\Users\20211SI0023\Documents\LP3\Solucao_aula005\LP3aula005\obj\Debug\net6.0-windows\refint\ATV_Aprendizagem002.dll
+C:\Users\20211SI0023\Documents\LP3\Solucao_aula005\LP3aula005\obj\Debug\net6.0-windows\ATV_Aprendizagem002.pdb
+C:\Users\20211SI0023\Documents\LP3\Solucao_aula005\LP3aula005\obj\Debug\net6.0-windows\ATV_Aprendizagem002.genruntimeconfig.cache
+C:\Users\20211SI0023\Documents\LP3\Solucao_aula005\LP3aula005\obj\Debug\net6.0-windows\ref\ATV_Aprendizagem002.dll

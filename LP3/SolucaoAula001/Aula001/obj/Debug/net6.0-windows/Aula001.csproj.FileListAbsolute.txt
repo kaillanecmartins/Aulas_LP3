@@ -1,0 +1,17 @@
+C:\Users\20211SI0023\Documents\LP3\SolucaoAula001\Aula001\bin\Debug\net6.0-windows\Aula001.exe
+C:\Users\20211SI0023\Documents\LP3\SolucaoAula001\Aula001\bin\Debug\net6.0-windows\Aula001.deps.json
+C:\Users\20211SI0023\Documents\LP3\SolucaoAula001\Aula001\bin\Debug\net6.0-windows\Aula001.runtimeconfig.json
+C:\Users\20211SI0023\Documents\LP3\SolucaoAula001\Aula001\bin\Debug\net6.0-windows\Aula001.dll
+C:\Users\20211SI0023\Documents\LP3\SolucaoAula001\Aula001\bin\Debug\net6.0-windows\Aula001.pdb
+C:\Users\20211SI0023\Documents\LP3\SolucaoAula001\Aula001\obj\Debug\net6.0-windows\Aula001.csproj.AssemblyReference.cache
+C:\Users\20211SI0023\Documents\LP3\SolucaoAula001\Aula001\obj\Debug\net6.0-windows\Aula001.Form1.resources
+C:\Users\20211SI0023\Documents\LP3\SolucaoAula001\Aula001\obj\Debug\net6.0-windows\Aula001.csproj.GenerateResource.cache
+C:\Users\20211SI0023\Documents\LP3\SolucaoAula001\Aula001\obj\Debug\net6.0-windows\Aula001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\20211SI0023\Documents\LP3\SolucaoAula001\Aula001\obj\Debug\net6.0-windows\Aula001.AssemblyInfoInputs.cache
+C:\Users\20211SI0023\Documents\LP3\SolucaoAula001\Aula001\obj\Debug\net6.0-windows\Aula001.AssemblyInfo.cs
+C:\Users\20211SI0023\Documents\LP3\SolucaoAula001\Aula001\obj\Debug\net6.0-windows\Aula001.csproj.CoreCompileInputs.cache
+C:\Users\20211SI0023\Documents\LP3\SolucaoAula001\Aula001\obj\Debug\net6.0-windows\Aula001.dll
+C:\Users\20211SI0023\Documents\LP3\SolucaoAula001\Aula001\obj\Debug\net6.0-windows\refint\Aula001.dll
+C:\Users\20211SI0023\Documents\LP3\SolucaoAula001\Aula001\obj\Debug\net6.0-windows\Aula001.pdb
+C:\Users\20211SI0023\Documents\LP3\SolucaoAula001\Aula001\obj\Debug\net6.0-windows\Aula001.genruntimeconfig.cache
+C:\Users\20211SI0023\Documents\LP3\SolucaoAula001\Aula001\obj\Debug\net6.0-windows\ref\Aula001.dll
