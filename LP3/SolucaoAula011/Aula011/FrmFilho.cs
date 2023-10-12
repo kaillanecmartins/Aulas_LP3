@@ -24,7 +24,7 @@ namespace Aula011
 
         private void btnNwjns_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Stay in the mirror...", "Payola Girls");
+            MessageBox.Show("Stay in the mirror...", "Hi, tokki!!!");
         }
 
         private void btnSserafinas_Click(object sender, EventArgs e)
